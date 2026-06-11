@@ -1,4 +1,4 @@
-# 🧠 AI-Powered Depression Detection using EEG (MODMA Dataset)
+# 🧠 AI - Powered Depression Detection using EEG (MODMA Dataset)
 
 ---
 
